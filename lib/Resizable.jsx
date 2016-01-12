@@ -3,7 +3,7 @@ var React = require('react');
 var Draggable = require('react-draggable');
 var PureRenderMixin = require('react/lib/ReactComponentWithPureRenderMixin');
 var assign = require('object-assign');
-var cloneWithProps = require('react/lib/cloneWithProps');
+var cloneWithProps = require('./CloneWithProps');
 
 var Resizable = module.exports = React.createClass({
   displayName: 'Resizable',
