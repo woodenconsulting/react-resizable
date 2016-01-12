@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "object-assign": "^2.0.0",
-    "react-draggable": "woodenconsulting/react-draggable#1.0.2"
+    "react-draggable": "woodenconsulting/react-draggable#1.0.3"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
